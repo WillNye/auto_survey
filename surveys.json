@@ -1,0 +1,74 @@
+{
+  "racetrac": {
+    "website": "http://www.tellracetrac.com/",
+    "pages": [
+      {},
+      {
+        "radio": ["option_173894_74647"]
+      },
+      {
+        "string_text": [{"id": "promptInput_125225", "key": "64"}]
+      },
+      {
+        "currency_range_text": [{"id": "promptInput_54006", "min": 1.07, "max": 9.99}],
+        "date_text": [{"id": "promptInput_53873", "days_ago": 0}],
+        "radio": ["option_232296_99512"]
+      },
+      {
+        "radio": ["option_126584_53811"]
+      },
+      {
+        "int_range_text": [{"id": "promptInput_53872", "min": 2222222, "max": 7777777}],
+        "radio": ["option_127134_54080"]
+      },
+      {
+        "radio": ["option_205005_88170"]
+      },
+      {},
+      {
+        "radio":
+        [
+          "option_205018_88171", "option_205035_88172", "option_205044_88173", "option_205053_88174",
+          "option_205058_88175"
+        ]
+      },
+      {
+        "radio":
+        [
+          "option_205085_88197", "option_232866_99802", "option_602566_276641", "option_602568_276642"
+        ]
+      },
+      {
+        "radio": ["option_602581_276647"]
+      },
+      {
+        "radio": ["option_602605_276652"]
+      },
+      {
+        "radio": ["option_602627_276659"]
+      },
+      {
+        "radio": ["option_602649_276666"]
+      },
+      {
+        "radio": ["option_602671_276673"]
+      },
+      {
+        "radio": ["option_602693_276680"]
+      },
+      {
+        "radio": ["option_205891_88582", "option_232281_99509"]
+      },
+      {
+        "radio": ["option_232865_98525", "option_243196_104952"]
+      },
+      {
+        "radio": ["option_602695_276682"]
+      },
+      {
+        "radio": ["option_230393_98527"]
+      }
+    ],
+    "continue": "nextPageLink"
+  }
+}
